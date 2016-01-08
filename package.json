@@ -1,3 +1,9 @@
 {
-  "registry": "npm"
+  "main": "./cluster.js",
+  "registry": "github",
+  "map": {
+    "./cluster.js": {
+      "node": "@node/cluster"
+    }
+  }
 }
