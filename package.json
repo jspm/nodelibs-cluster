@@ -1,9 +1,12 @@
 {
   "main": "./cluster.js",
+  "name": "jspm-nodelibs-cluster",
+  "version": "0.2.0",
   "registry": "github",
   "map": {
     "./cluster.js": {
       "node": "@node/cluster"
     }
-  }
+  },
+  "jspmNodeConversion": false
 }
