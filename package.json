@@ -1,7 +1,7 @@
 {
   "main": "./cluster.js",
   "name": "jspm-nodelibs-cluster",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "map": {
     "./cluster.js": {
       "node": "@node/cluster"
